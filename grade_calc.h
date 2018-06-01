@@ -17,6 +17,11 @@ public:
 
 private:
     Ui::grade_calc *ui;
+
+private slots:
+    void on_pushButton_calculate_clicked();
+    void on_comboBox_course_currentIndexChanged(const QString &arg1);
+    void on_checkBox_clicked(bool checked);
 };
 
 #endif // GRADE_CALC_H

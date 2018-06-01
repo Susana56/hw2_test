@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>597</width>
-    <height>423</height>
+    <width>607</width>
+    <height>409</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -71,7 +71,7 @@
      <rect>
       <x>20</x>
       <y>160</y>
-      <width>41</width>
+      <width>91</width>
       <height>16</height>
      </rect>
     </property>
@@ -84,7 +84,7 @@
      <rect>
       <x>20</x>
       <y>190</y>
-      <width>41</width>
+      <width>101</width>
       <height>16</height>
      </rect>
     </property>
@@ -97,7 +97,7 @@
      <rect>
       <x>20</x>
       <y>220</y>
-      <width>41</width>
+      <width>101</width>
       <height>16</height>
      </rect>
     </property>
@@ -110,7 +110,7 @@
      <rect>
       <x>20</x>
       <y>250</y>
-      <width>41</width>
+      <width>101</width>
       <height>16</height>
      </rect>
     </property>
@@ -123,7 +123,7 @@
      <rect>
       <x>20</x>
       <y>280</y>
-      <width>41</width>
+      <width>101</width>
       <height>16</height>
      </rect>
     </property>
@@ -134,7 +134,7 @@
    <widget class="QSlider" name="horizontalSlider_hw1">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>120</x>
       <y>70</y>
       <width>160</width>
       <height>22</height>
@@ -150,7 +150,7 @@
    <widget class="QSlider" name="horizontalSlider_hw2">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>120</x>
       <y>100</y>
       <width>160</width>
       <height>22</height>
@@ -166,7 +166,7 @@
    <widget class="QSlider" name="horizontalSlider_hw3">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>120</x>
       <y>130</y>
       <width>160</width>
       <height>22</height>
@@ -182,7 +182,7 @@
    <widget class="QSlider" name="horizontalSlider_hw5">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>120</x>
       <y>190</y>
       <width>160</width>
       <height>22</height>
@@ -204,7 +204,7 @@
    <widget class="QSlider" name="horizontalSlider_hw6">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>120</x>
       <y>220</y>
       <width>160</width>
       <height>22</height>
@@ -220,7 +220,7 @@
    <widget class="QSlider" name="horizontalSlider_hw7">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>120</x>
       <y>250</y>
       <width>160</width>
       <height>22</height>
@@ -236,7 +236,7 @@
    <widget class="QSlider" name="horizontalSlider_hw8">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>120</x>
       <y>280</y>
       <width>160</width>
       <height>22</height>
@@ -252,7 +252,7 @@
    <widget class="QSpinBox" name="spinBox_hw1">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>280</x>
       <y>70</y>
       <width>51</width>
       <height>24</height>
@@ -265,7 +265,7 @@
    <widget class="QSpinBox" name="spinBox_hw2">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>280</x>
       <y>100</y>
       <width>51</width>
       <height>24</height>
@@ -278,7 +278,7 @@
    <widget class="QSpinBox" name="spinBox_hw3">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>280</x>
       <y>130</y>
       <width>51</width>
       <height>24</height>
@@ -291,7 +291,7 @@
    <widget class="QSpinBox" name="spinBox_hw5">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>280</x>
       <y>190</y>
       <width>51</width>
       <height>24</height>
@@ -304,7 +304,7 @@
    <widget class="QSpinBox" name="spinBox_hw6">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>280</x>
       <y>220</y>
       <width>51</width>
       <height>24</height>
@@ -317,7 +317,7 @@
    <widget class="QSpinBox" name="spinBox_hw8">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>280</x>
       <y>280</y>
       <width>51</width>
       <height>24</height>
@@ -330,8 +330,8 @@
    <widget class="QLabel" name="label_Mt1">
     <property name="geometry">
      <rect>
-      <x>320</x>
-      <y>70</y>
+      <x>350</x>
+      <y>80</y>
       <width>60</width>
       <height>16</height>
      </rect>
@@ -343,9 +343,9 @@
    <widget class="QLabel" name="label_Mt2">
     <property name="geometry">
      <rect>
-      <x>320</x>
-      <y>150</y>
-      <width>71</width>
+      <x>350</x>
+      <y>160</y>
+      <width>131</width>
       <height>16</height>
      </rect>
     </property>
@@ -356,8 +356,8 @@
    <widget class="QLabel" name="label_Final">
     <property name="geometry">
      <rect>
-      <x>320</x>
-      <y>220</y>
+      <x>350</x>
+      <y>230</y>
       <width>81</width>
       <height>16</height>
      </rect>
@@ -369,7 +369,7 @@
    <widget class="QRadioButton" name="radioButton_A">
     <property name="geometry">
      <rect>
-      <x>310</x>
+      <x>440</x>
       <y>300</y>
       <width>100</width>
       <height>20</height>
@@ -382,8 +382,8 @@
    <widget class="QRadioButton" name="radioButton_B">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>330</y>
+      <x>440</x>
+      <y>320</y>
       <width>100</width>
       <height>20</height>
      </rect>
@@ -392,23 +392,10 @@
      <string>Schema B</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label_Overall">
-    <property name="geometry">
-     <rect>
-      <x>250</x>
-      <y>360</y>
-      <width>111</width>
-      <height>16</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string> Overall Score:</string>
-    </property>
-   </widget>
    <widget class="QSpinBox" name="spinBox_hw7">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>280</x>
       <y>250</y>
       <width>51</width>
       <height>24</height>
@@ -421,8 +408,8 @@
    <widget class="QSlider" name="horizontalSlider_Mt1">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>90</y>
+      <x>400</x>
+      <y>100</y>
       <width>160</width>
       <height>22</height>
      </rect>
@@ -437,8 +424,8 @@
    <widget class="QSlider" name="horizontalSlider_Mt2">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>170</y>
+      <x>400</x>
+      <y>180</y>
       <width>160</width>
       <height>22</height>
      </rect>
@@ -453,8 +440,8 @@
    <widget class="QSlider" name="horizontalSlider_Final">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>240</y>
+      <x>400</x>
+      <y>250</y>
       <width>160</width>
       <height>22</height>
      </rect>
@@ -469,8 +456,8 @@
    <widget class="QSpinBox" name="spinBox_Mt1">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>110</y>
+      <x>400</x>
+      <y>130</y>
       <width>161</width>
       <height>24</height>
      </rect>
@@ -482,8 +469,8 @@
    <widget class="QSpinBox" name="spinBox_Mt2">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>190</y>
+      <x>400</x>
+      <y>200</y>
       <width>171</width>
       <height>24</height>
      </rect>
@@ -495,7 +482,7 @@
    <widget class="QSpinBox" name="spinBox_Final">
     <property name="geometry">
      <rect>
-      <x>340</x>
+      <x>400</x>
       <y>270</y>
       <width>171</width>
       <height>24</height>
@@ -508,7 +495,7 @@
    <widget class="QSlider" name="horizontalSlider_hw4">
     <property name="geometry">
      <rect>
-      <x>70</x>
+      <x>120</x>
       <y>160</y>
       <width>160</width>
       <height>22</height>
@@ -524,7 +511,7 @@
    <widget class="QSpinBox" name="spinBox_hw4">
     <property name="geometry">
      <rect>
-      <x>230</x>
+      <x>280</x>
       <y>160</y>
       <width>48</width>
       <height>24</height>
@@ -534,7 +521,7 @@
      <number>100</number>
     </property>
    </widget>
-   <widget class="QComboBox" name="comboBox">
+   <widget class="QComboBox" name="comboBox_course">
     <property name="geometry">
      <rect>
       <x>253</x>
@@ -554,14 +541,43 @@
      </property>
     </item>
    </widget>
-   <widget class="QFontComboBox" name="fontComboBox">
+   <widget class="QLabel" name="Overall_score">
     <property name="geometry">
      <rect>
-      <x>10</x>
-      <y>330</y>
-      <width>217</width>
-      <height>28</height>
+      <x>530</x>
+      <y>350</y>
+      <width>60</width>
+      <height>16</height>
      </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_calculate">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>340</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Calculate Score:</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="checkBox">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>310</y>
+      <width>211</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Are there 7 total homeworks?</string>
     </property>
    </widget>
   </widget>
@@ -570,7 +586,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>597</width>
+     <width>607</width>
      <height>22</height>
     </rect>
    </property>
