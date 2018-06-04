@@ -115,7 +115,7 @@ void grade_calc::on_pushButton_calculate_clicked()
         }
     }
     else{ // if course is for PIC 10C
-        homeworks = ui->spinBox_hw1->value() + ui->spinBox_hw2->value() + ui->spinBox_hw3->value() ;
+        homeworks = (ui->spinBox_hw1->value() + ui->spinBox_hw2->value() + ui->spinBox_hw3->value())/3 ;
         midterm_1 = ui->spinBox_Mt1->value();
         final_project = ui->spinBox_hw4->value();
         final= ui->spinBox_Final->value();
